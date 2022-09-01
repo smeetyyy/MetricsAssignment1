@@ -1,0 +1,28 @@
+{
+    "workspace": "c:\\Users\\Stahk\\Desktop\\metrics1",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2022-09-01 04:58:57",
+            "filesum": 1,
+            "codesum": 132,
+            "commentsum": 0,
+            "blanksum": 14,
+            "statistics": {
+                ".java": {
+                    "code": 132,
+                    "comment": 0,
+                    "blank": 14
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 14,
+                    "code": 132,
+                    "comment": 0,
+                    "filename": "HelloWorld.java"
+                }
+            ]
+        }
+    ]
+}

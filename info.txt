@@ -1,0 +1,4 @@
+For this assignment, I wasn't sure what to use as a snippet as I don't remember having one from the exam, so I made
+a simple class to store and get a student's name, using the set_name and get_name methods. I have named the file snippet.py
+The tests.py is some simple tests, and the coverage report is generated propery.
+There are 2 lines of code reports, 1 for both python files, the other for java.

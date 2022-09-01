@@ -1,0 +1,34 @@
+{
+    "workspace": "c:\\Users\\Stahk\\Desktop\\metrics1",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2022-09-01 04:53:26",
+            "filesum": 2,
+            "codesum": 40,
+            "commentsum": 0,
+            "blanksum": 11,
+            "statistics": {
+                ".py": {
+                    "code": 40,
+                    "comment": 0,
+                    "blank": 11
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "snippet.py"
+                },
+                {
+                    "blank": 7,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "tests.py"
+                }
+            ]
+        }
+    ]
+}
